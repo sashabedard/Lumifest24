@@ -36,6 +36,8 @@ Pour les brenchements, nous allons centralisé la majorité de l'expérience sur
 
 ![schema_brenchment_régis](medias/schema/schema_brenchement_regis.drawio.png)
 
+![schema_brenchement_régis_02](medias/schema/sche_brenchement_regis_02.drawio.png)
+/
 Les fils se dirigeant de la régis à l'installation sont divisés en six (6) regroupement distinct. Ces-derniers suivent la même nomenclature que pour le reste du projet. Les regroupements de fils qui ne se dirigent pas vers des piliers sont numéroté par avec les lettres "d", pour le regroupement qui se dirige vers le côté droit de la pièce, et "g", pour le regroupement qui se dirige vers le côté gauche de la pièce. 
 
 #### pilier
