@@ -122,4 +122,9 @@ Dans cette liste, nous avons regroupé tout ce que nous devons acheter pour réa
 
 #### matériel de déco que nous devons acheter
 
+Dans cette liste, nous regroupons tout les éléments de décoration qui ne sont pas essentiel au fonctionnement de l'installation, mais qui ajoute à l'expérience globale et créant, lorsque juxtaposé à la projection 360 et à l'ambience sonore, une atmosphère plus complète. 
+Dans la même ordre d'idée que pour la dernière liste, nous avons intégré des liens pour chacun des éléments de la liste.
+
+- 
+
 ### Budget
