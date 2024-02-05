@@ -4,11 +4,29 @@
 
 ### Intention de départ
 
+L'Équilibre Fragile entre le monde et son environnement
+
 ### Synopsis
+
+L’expérience commence à l’extérieur de la salle lorsqu’un interacteur est attiré par le portail qui mène vers l’interieur de la pièce, un monde parallèle. En rentrant, l’interacteur découvre une pièce faiblement éclairé. Les projections sont vide de couleur, mais lorsque quelqu’un touche à un des capaciteurs (ou valves) l’oeuvre se “réveille” en mettant dans la projection ce qui est lié à sa tour.  Cette pièce devient donc un univers en constante évolution, mêlant formes abstraite, motifs, objets reconnaisables psychédélique. Des valves interactives (ou capaciteurs) invitent les utilisateurs à changer l’environnement pendant que quatre tours fusionnent de manière unique leur thèmes.
 
 ### But
 
+#### Fusion des Esthétiques
+
+Comprendre que les l’environement va coexister malgré le chaos initial et que ça crée une identité nouvelle.
+
+#### Participation Active
+
+Permettre de comprendre l’impact de la personne sur son environnement.
+
+#### Évasion et Réflexion
+
+Faire sortir les gens de leur qutodien pour réfléchir à l’enjeu.
+
 ### Enjeu
+
+L'œuvre soulève la question de l'équilibre délicat entre notre quête de progrès technologique et la préservation de notre connexion avec la nature. Les thèmes psychédéliques et cyberpunk se rejoignent pour illustrer un monde où ces deux éléments coexistent, mais pas toujours harmonieusement.
 
 ## Direction Artistique
 
