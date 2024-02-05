@@ -56,9 +56,31 @@ Les valves sont l'élément intéractif principale de notre installation. Les va
 
 ### Liste de Matériel
 
-Puisque nous avons besoin d'une quantitée diverse de matériel et pour faciliter la lecture, nous avons décidé de diviser la liste de matériel en plusieurs sections.
+Puisque nous avons besoin d'une quantitée diverse de matériel et pour faciliter la lecture, nous avons décidé de diviser la liste de matériel en plusieurs sections. Nous allons mettre entre parenthèse la quantité de chaque éléments que nous avons besoin.
 
 #### matériel prêté par Dominic Arcand
+
+Dans cette liste nous avons regroupé tout ce qui nous sera prêté par les organisateurs du Lumifest 2024.
+
+- Ponts d'éclairage 8' (4)
+- projecteurs UST 800px (8)
+- convertisseur hdmi/sdi (8)
+- cable sdi 100' (16)
+- haut-parleurs (4)
+- trepieds pour haut-parleur (4)
+- cable xlr 100' (2)
+- cable xlr 50' (4)
+- artnet 8 univers (1) // à confirmer
+- tube LED (9)
+- bande LED (8)
+- bande LED pixel (9)
+- cable dmx 100' (4)
+- cable dmx 50' (4)
+- cable dmx 5' (12)
+- u-ground 100' (4)
+- u-ground 50' (4)
+- power bar (5)
+- poches de sable (24)
 
 #### matériel du pmv que nous devons acheter
 
