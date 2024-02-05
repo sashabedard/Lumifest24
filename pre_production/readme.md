@@ -34,20 +34,34 @@ Pour les brenchements, nous allons centralisé la majorité de l'expérience sur
 
 #### régis
 
+Le régis est l'endroit dans l'installation ou nous allons recevoir les données captées par le micro-controleur et nous allons les utilisées pour affecter l'ambience sonore et les projections.  
 ![schema_brenchment_régis](medias/schema/schema_brenchement_regis.drawio.png)
 
 ![schema_brenchement_régis_02](medias/schema/sche_brenchement_regis_02.drawio.png)
 /
 Les fils se dirigeant de la régis à l'installation sont divisés en six (6) regroupement distinct. Ces-derniers suivent la même nomenclature que pour le reste du projet. Les regroupements de fils qui ne se dirigent pas vers des piliers sont numéroté par avec les lettres "d", pour le regroupement qui se dirige vers le côté droit de la pièce, et "g", pour le regroupement qui se dirige vers le côté gauche de la pièce. 
 
-#### pilier
+#### piliers
+
+Bien que chacun des quatre (4) piliers sera different, les technologies utilisées seront sensiblement les mêmes. De facto,le brenchement des technologies pour chacun des piliers sera le même. 
 
 ![schema_pilier_brenchement](medias/schema/schema_piliers_brenchement.drawio.png)
 
 #### valve
 
+Les valves sont l'élément intéractif principale de notre installation. Les valves seront connecté a un potentiomètre et relié à un resistor et un port pwn du micro-controleur. Pour s'éviter le trouble de trouver quatre (4) valve vintage pareil et d'avoir des soucis pour les fixés, nous avons décidé de les faire imprimé en 3D. 
+
 ![schema_valve](medias/schema/schema_valve.drawio.png)
+![schema_valve_construction](medias/schema/schema_valve_construction.drawio.png)
 
 ### Liste de Matériel
+
+Puisque nous avons besoin d'une quantitée diverse de matériel et pour faciliter la lecture, nous avons décidé de diviser la liste de matériel en plusieurs sections.
+
+#### matériel prêté par Dominic Arcand
+
+#### matériel du pmv que nous devons acheter
+
+#### matériel de déco que nous devons acheter
 
 ### Budget
