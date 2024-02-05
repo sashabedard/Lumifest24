@@ -110,21 +110,32 @@ Dans cette liste, nous avons regroupé tout ce que nous devons acheter pour réa
 - [haut-parleur intérieur](https://www.amazon.ca/Portable-Speaker-Interface-Smartphone-Computer/dp/B07RJR1XPH/ref=asc_df_B07RJR1XPH/?tag=googlemobshop-20&linkCode=df0&hvadid=341825615644&hvpos=&hvnetw=g&hvrand=17321004739133807997&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9000439&hvtargid=pla-813021010978&psc=1&mcid=c61e7c8226c937e390bba8e9cecc9571) (4)
 - [carte sd](https://www.amazon.ca/Gigastone-Memory-Camcorder-Recorder-Playback/dp/B07SBL5GZB/ref=asc_df_B07SBL5GZB/?tag=googleshopc0c-20&linkCode=df0&hvadid=540626975969&hvpos=&hvnetw=g&hvrand=6668981857743626176&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000398&hvtargid=pla-916421134773&mcid=5991f97f7ba734d090595c9e7cbb9338&th=1) (4)
 - resistor (4)
-- potentiometre (4)
-- valve (4)
+- [potentiometre](https://www.amazon.ca/-/fr/BQLZR-3590S-2-103L-potentiom%C3%A8tres-rotatifs-pr%C3%A9cision/dp/B00RT8ZZWE/ref=sr_1_12?adgrpid=68757805817&hvadid=645778546304&hvdev=c&hvlocphy=9061031&hvnetw=g&hvqmt=e&hvrand=14365429445465706112&hvtargid=kwd-312004743830&hydadcr=7933_13615710&keywords=potentiom%C3%A8tre+multitour&qid=1707152372&sr=8-12) (4)
+- valve (4) // 3d print
 - [clamp](https://www.amazon.ca/SmallRig-Thread-Monitor-Umbrellas-Shelves/dp/B075M3Y21G/ref=asc_df_B075M3Y21G/?tag=googleshopc0c-20&linkCode=df0&hvadid=335336194689&hvpos=&hvnetw=g&hvrand=14228036213940279672&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000605&hvtargid=pla-794475055880&psc=1&mcid=51d30a1b61b838f6ae8a9a8f0b50d2c9) (15)
 - [display port hub](https://www.amazon.ca/DisplayPort-Splitter-BolAAzuL-Adapter-Display/dp/B09L5YPM5D/ref=sr_1_27?keywords=displayport+hub&qid=1706217664&sr=8-27) (3)
 - [cable display port](https://www.amazon.ca/DisplayPort-Benfei-Gold-Plated-Supports-Compatible/dp/B077BPW8XJ/ref=asc_df_B077BPW8XJ/?tag=googleshopc0c-20&linkCode=df0&hvadid=459346866217&hvpos=&hvnetw=g&hvrand=6240455701509316061&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061031&hvtargid=pla-525295260888&psc=1&mcid=cfccc67ba31e3e2cbd1221cf241472ed) (3)
-- [convertisseur display port/hdmi](https://www.amazon.ca/DisplayPort-Benfei-Gold-Plated-Supports-Compatible/dp/B077BPW8XJ/ref=asc_df_B077BPW8XJ/?tag=googleshopc0c-20&linkCode=df0&hvadid=459346866217&hvpos=&hvnetw=g&hvrand=6240455701509316061&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061031&hvtargid=pla-525295260888&psc=1&mcid=cfccc67ba31e3e2cbd1221cf241472ed) (9)
+- [convertisseur display port/hdmi](https://www.amazon.ca/-/fr/adaptateur-DisplayPort-Uni-Directional-Converter-Compatible/dp/B07JFTK8YV/ref=sr_1_6?crid=1QHSQNG25UL8M&keywords=display+port+to+hdmi+cable&qid=1707150630&s=electronics&sprefix=displa%2Celectronics%2C231&sr=1-6) (9)
 - [cable hdmi 1'](https://www.amazon.ca/valonic-Short-HDMI-Cable-ethernet/dp/B01JJPN9KY/ref=asc_df_B01JJPN9KY/?tag=googleshopc0c-20&linkCode=df0&hvadid=579383378528&hvpos=&hvnetw=g&hvrand=16043264866439293911&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061031&hvtargid=pla-704048243718&psc=1&mcid=c8aea733e7313e4296168c5523c22d5d) (8)
 - [carte de son](https://reverb.com/p/focusrite-scarlett-6i6-2nd-gen) (1)
 - [subwoofer](https://www.amazon.com/PreSonus-Eris-Sub-8BT-Studio-Quality/dp/B0C891Q6YH/ref=sr_1_11?crid=1UXY9DPDH23R8&keywords=subwoofer&qid=1707065232&sprefix=subwoofe%2Caps%2C216&sr=8-11) (1)
+- quincaillerie ()
 
 #### matériel de déco que nous devons acheter
 
-Dans cette liste, nous regroupons tout les éléments de décoration qui ne sont pas essentiel au fonctionnement de l'installation, mais qui ajoute à l'expérience globale et créant, lorsque juxtaposé à la projection 360 et à l'ambience sonore, une atmosphère plus complète. 
-Dans la même ordre d'idée que pour la dernière liste, nous avons intégré des liens pour chacun des éléments de la liste.
+Dans cette liste, nous avons regroupé tout ce qui n'est pas essentiel pour le fonctionnement de l'installation, mais qui, jumelé à la projection 360 et à l'ambience sonore, crée un atmosphère plus immersif qui offre une expérience plus complète pour le publique.
+Comme pour la dernière liste, nous avont intégrer des liens de référence pour chacun des éléments de la liste.
 
-- 
+- [fausse plante (guirlande)](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0C7HH1TFQ?ref_=Oct_d_otopr_d_6647015011_1&pd_rd_w=LKoPy&content-id=amzn1.sym.a7e32360-e793-4626-8be6-0e726ac90cbb&pf_rd_p=a7e32360-e793-4626-8be6-0e726ac90cbb&pf_rd_r=E62ZKDQ9WJJ2Q7R9X1FS&pd_rd_wg=NkyT7&pd_rd_r=ad254d86-2cad-4dbc-87d1-d83c5733ad04&pd_rd_i=B0C7HH1TFQ&th=1) (1)
+- [fausse plante (fougère)](https://www.amazon.ca/Huryfox-Artificial-Decoration-Farmhouse-Decorations/dp/B08DTWCWP9/ref=asc_df_B08DTWCWP9/?tag=googleshopc0c-20&linkCode=df0&hvadid=477595714032&hvpos=&hvnetw=g&hvrand=2867164183843164202&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061031&hvtargid=pla-974565907571&psc=1&mcid=2a1301f9d9d4316d9780c7e93f5bbfa5) (1)
+- [fausse plante (pothos)](https://www.amazon.ca/artificielles-suspendre-int%C3%A9rieur-ext%C3%A9rieur-d%C3%A9coration/dp/B09P51M2D1/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.c1e6258b-eedc-4939-9630-a0b9df9f3f27%3Aamzn1.sym.c1e6258b-eedc-4939-9630-a0b9df9f3f27&cv_ct_cx=amazon+artificial+plants&hvadid=667066598313&hvdev=c&hvlocphy=9061031&hvnetw=g&hvqmt=e&hvrand=3153144384626716860&hvtargid=kwd-954378001889&hydadcr=29862_14759301&keywords=plantes+artificielles+amazon&pd_rd_i=B09P51M2D1&pd_rd_r=b5730a57-164d-42cf-85ae-8f337b00e33a&pd_rd_w=31yJc&pd_rd_wg=JdEqo&pf_rd_p=c1e6258b-eedc-4939-9630-a0b9df9f3f27&pf_rd_r=JC8KBYVK23JSBD80QMDS&qid=1707151439&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-acb80629-ce74-4cc5-9423-11e8801573fb-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1) (1)
+- [plywood obs 1/2 4'x8'](https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230) (2)
+- [grillage à lapin](https://www.amazon.ca/Hardware-Galvanized-Chicken-Protection-Supports/dp/B0C36KF3TS/ref=sr_1_3?keywords=grillage+pour+cloture&qid=1706837058&sr=8-3) (1)
+- [ciment](https://www.homedepot.ca/product/quikrete-portland-cement-40kg/1000149591) (2)
+- écran (1) // à trouver ent emps et lieux, idéalement usager
+- engrenage (plusieurs) // 3d print?
+- affiche (15) // à faire nous même
+- tissue () // à discuter
+- faux gazon ()
 
 ### Budget
