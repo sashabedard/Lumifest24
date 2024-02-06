@@ -40,7 +40,7 @@ L'oeuvre sera composé de quatre piliers sur lesquels nous attacherons des proje
 
 Pour la projection 360, nous allons utiliser huit (8) projecteurs UST, fixés sur quatre (4) ponts d'éclairage d'une hauteur de huit (8) pieds chaques. Nous allons également faire passer l'ensemble des fils nécessaires au fonctionnement du projet en les attachants au plafond de la pièce.
 
-![schema_cablage_salle](medias/schema/schema_cablage_salle.drawio.png)
+![schema_cablage_salle](medias/schema/schema_cablage_salle.drawio.jpg)
 
 - Nous avons numeroté chacun des piliers de un à quatre pour facilité l'utilisation multidimensionnel de l'espace. 
 - Les projecteurs sont appelés par le numero du pilier sur lequel ils fixés précédé d'un "p", pour projecteur, et suivie d'un "a" ou un "b". Ces-dernières font référence au mur vers lequel le projecteur est dirigé. Les projecteurs se terminant avec la lettre "a" sont pointés vers les murs les plus longs, et les projecteurs se terminant par la lettre "b" sont pointés vers les murs les plus cours.
