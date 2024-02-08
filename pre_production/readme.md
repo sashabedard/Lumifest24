@@ -52,22 +52,22 @@ Pour les brenchements, nous allons centralisé la majorité de l'expérience sur
 
 #### régis
 
-Le régis est l'endroit dans l'installation ou nous allons recevoir les données captées par le micro-controleur et nous allons les utilisées pour affecter l'ambience sonore et les projections.  
+Le régie est l'endroit dans l'installation ou nous allons recevoir les données captées par le micro-controleur et nous allons les utilisé pour affecter l'ambiance sonore et les projections.  
 ![schema_brenchment_régis](medias/schema/schema_brenchement_regis.jpg)
 
 ![schema_brenchement_régis_02](medias/schema/sche_brenchement_regis_02.jpg)
 
-Les fils se dirigeant de la régis à l'installation sont divisés en six (6) regroupement distinct. Ces-derniers suivent la même nomenclature que pour le reste du projet. Les regroupements de fils qui ne se dirigent pas vers des piliers sont numéroté par avec les lettres "d", pour le regroupement qui se dirige vers le côté droit de la pièce, et "g", pour le regroupement qui se dirige vers le côté gauche de la pièce. 
+Les fils se dirigeant de la régie à l'installation sont divisés en six (6) regroupement distinct. Ces-derniers suivent la même nomenclature que pour le reste du projet. Les regroupements de fils qui ne se dirigent pas vers des piliers sont numéroté par avec les lettres "d", pour le regroupement qui se dirige vers le côté droit de la pièce, et "g", pour le regroupement qui se dirige vers le côté gauche de la pièce. 
 
 #### piliers
 
-Bien que chacun des quatre (4) piliers sera different, les technologies utilisées seront sensiblement les mêmes. De facto,le brenchement des technologies pour chacun des piliers sera le même. 
+Bien que chacun des quatre (4) piliers sera different, les technologies utilisées seront sensiblement les mêmes. De facto, le branchement des technologies pour chacun des piliers sera le même. 
 
 ![schema_pilier_brenchement](medias/schema/schema_piliers_brenchement.drawia.png)
 
 #### valve
 
-Les valves sont l'élément intéractif principale de notre installation. Les valves seront connecté a un potentiomètre et relié à un resistor et un port pwn du micro-controleur. Pour s'éviter le trouble de trouver quatre (4) valve vintage pareil et d'avoir des soucis pour les fixés, nous avons décidé de les faire imprimé en 3D. 
+Les valves sont l'élément intéractif principale de notre installation. Les valves seront connectées a un potentiomètre et relié à un resistor et un port PWN du micro-controleur. Pour s'éviter le trouble de trouver quatre (4) valve vintage pareil et d'avoir des soucis pour les fixés, nous avons décidé de les faire imprimé en 3D. 
 
 ![schema_valve](medias/schema/schema_valve.drawio.png)
 ![schema_valve_construction](medias/schema/schema_valve_construction.drawio.png)
@@ -76,7 +76,7 @@ Les valves sont l'élément intéractif principale de notre installation. Les va
 
 Puisque nous avons besoin d'une quantitée diverse de matériel et pour faciliter la lecture, nous avons décidé de diviser la liste de matériel en plusieurs sections. Nous allons mettre entre parenthèse la quantité de chaque éléments que nous avons besoin.
 
-#### matériel prêté par Dominic Arcand
+#### matériel prêté par Lumifest.
 
 Dans cette liste nous avons regroupé tout ce qui nous sera prêté par les organisateurs du Lumifest 2024.
 
@@ -102,7 +102,7 @@ Dans cette liste nous avons regroupé tout ce qui nous sera prêté par les orga
 
 #### matériel du pmv que nous devons acheter
 
-Dans cette liste, nous avons regroupé tout ce que nous devons acheter pour réaliser un produit minimum viable. Pour faciliter la compréhension, nous avons insérer des liens pour chacun des items.
+Dans cette liste, nous avons regroupé tout ce que nous devons acheter pour réaliser un produit minimum viable. Pour faciliter la compréhension, nous avons inséré des liens pour chacun des items.
 
 - [ESP32-POE](https://www.digikey.ca/en/products/detail/olimex-ltd/ESP32-POE/10258717?utm_adgroup&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Product_Low%20ROAS%20Categories&utm_term&productid=10258717&utm_content&utm_id=go_cmp-20291741422_adg-_ad-__dev-c_ext-_prd-10258717_sig-Cj0KCQiA-62tBhDSARIsAO7twbbuaS895O0iKFZlhM52wHeb3qNiA9BaEHbKfJHeihLFH5BrcTVQeOgaAuObEALw_wcB&gad_source=1) (4)
 - [df mini player](https://www.amazon.ca/Aideepen-DFPlay-Player-Support-Arduino/dp/B07BDD8BF3/ref=asc_df_B07BDD8BF3/?tag=googleshopc0c-20&linkCode=df0&hvadid=578872479514&hvpos=&hvnetw=g&hvrand=3997010125268453566&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000398&hvtargid=pla-1649524406815&psc=1&mcid=ed33710875bc3ef0b0290923883cfbb7) (4)
@@ -124,7 +124,7 @@ Dans cette liste, nous avons regroupé tout ce que nous devons acheter pour réa
 #### matériel de déco que nous devons acheter
 
 Dans cette liste, nous avons regroupé tout ce qui n'est pas essentiel pour le fonctionnement de l'installation, mais qui, jumelé à la projection 360 et à l'ambience sonore, crée un atmosphère plus immersif qui offre une expérience plus complète pour le publique.
-Comme pour la dernière liste, nous avont intégrer des liens de référence pour chacun des éléments de la liste.
+Comme pour la dernière liste, nous avons intégrer des liens de référence pour chacun des éléments de la liste.
 
 - [fausse plante (guirlande)](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0C7HH1TFQ?ref_=Oct_d_otopr_d_6647015011_1&pd_rd_w=LKoPy&content-id=amzn1.sym.a7e32360-e793-4626-8be6-0e726ac90cbb&pf_rd_p=a7e32360-e793-4626-8be6-0e726ac90cbb&pf_rd_r=E62ZKDQ9WJJ2Q7R9X1FS&pd_rd_wg=NkyT7&pd_rd_r=ad254d86-2cad-4dbc-87d1-d83c5733ad04&pd_rd_i=B0C7HH1TFQ&th=1) (1)
 - [fausse plante (fougère)](https://www.amazon.ca/Huryfox-Artificial-Decoration-Farmhouse-Decorations/dp/B08DTWCWP9/ref=asc_df_B08DTWCWP9/?tag=googleshopc0c-20&linkCode=df0&hvadid=477595714032&hvpos=&hvnetw=g&hvrand=2867164183843164202&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061031&hvtargid=pla-974565907571&psc=1&mcid=2a1301f9d9d4316d9780c7e93f5bbfa5) (1)
@@ -132,10 +132,10 @@ Comme pour la dernière liste, nous avont intégrer des liens de référence pou
 - [plywood obs 1/2 4'x8'](https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230) (2)
 - [grillage à lapin](https://www.amazon.ca/Hardware-Galvanized-Chicken-Protection-Supports/dp/B0C36KF3TS/ref=sr_1_3?keywords=grillage+pour+cloture&qid=1706837058&sr=8-3) (1)
 - [ciment](https://www.homedepot.ca/product/quikrete-portland-cement-40kg/1000149591) (2)
-- écran (1) // à trouver ent emps et lieux, idéalement usager
+- écran (1) // à trouver en temps et lieu, idéalement usagé
 - engrenage (plusieurs) // 3d print?
-- affiche (15) // à faire nous même
-- tissue () // à discuter
+- affiches (15) // à faire nous même
+- tissu () // à discuter
 - faux gazon ()
 
 ### Budget
