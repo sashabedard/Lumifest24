@@ -4,7 +4,7 @@
 
 ### Intention de départ
 
-L'Équilibre Fragile entre le monde et son environnement
+Soulever l'Équilibre fragile entre les individus et leur environnement.
 
 ### Synopsis
 
@@ -14,7 +14,7 @@ L’expérience commence à l’extérieur de la salle lorsqu’un interacteur e
 
 #### Fusion des Esthétiques
 
-Comprendre que les l’environement va coexister malgré le chaos initial et que ça crée une identité nouvelle.
+Comprendre que l’environement va coexister malgré le chaos initial et que ça crée une identité nouvelle.
 
 #### Participation Active
 
