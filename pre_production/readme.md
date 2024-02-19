@@ -63,7 +63,7 @@ Les fils se dirigeant de la régie à l'installation sont divisés en six (6) re
 
 Bien que chacun des quatre (4) piliers sera different, les technologies utilisées seront sensiblement les mêmes. De facto, le branchement des technologies pour chacun des piliers sera le même. 
 
-![schema_pilier_brenchement](medias/schema/schema_piliers_brenchement.drawia.png)
+![schema_pilier_brenchement](medias/schema/schema_piliers_brenchement.jpg)
 
 #### valve
 
@@ -185,5 +185,5 @@ Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour ré
 
 #### total
 
-| total | 2150,46$ |
-| total + 15% | 2795,60$ |
+**total :** 2150,46$
+**total + 15% :** 2795,60$
