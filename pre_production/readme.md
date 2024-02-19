@@ -139,3 +139,15 @@ Comme pour la dernière liste, nous avons intégrer des liens de référence pou
 - faux gazon ()
 
 ### Budget
+
+Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour réaliser notre projet. Pour faciliter la lecture, nous avons divisé le budget en deux tableaux. Le premier inclus tout ce qui est nécessaire au fonctionnement de l'oeuvre, et le deuxième inclus tout les élémnets de décor nécessaire à l'aspect esthétique de l'installation.
+
+#### Tableau 1
+
+| produits | quantité | prix unitaire | prix total |
+|----------|----------|---------------|------------|
+| ESP32-POE | 4 | 26,99$ | 106,76$ |
+| df mini player | 1 | 26,99$ | 26,99$ |
+| 1/8 jack module | 6 | 1,95$ | 11,70$ |
+| haut-parleur intérieur | 4 | 14,99$ | 59,96$ |
+| carte sd | 1 | 39,98$ | 39,98$ |
