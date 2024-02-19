@@ -140,7 +140,7 @@ Comme pour la dernière liste, nous avons intégrer des liens de référence pou
 
 ### Budget
 
-Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour réaliser notre projet. Pour faciliter la lecture, nous avons divisé le budget en deux tableaux. Le premier inclus tout ce qui est nécessaire au fonctionnement de l'oeuvre, et le deuxième inclus tout les élémnets de décor nécessaire à l'aspect esthétique de l'installation.
+Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour réaliser notre projet. Pour faciliter la lecture, nous avons divisé le budget en deux tableaux. Le premier inclus tout ce qui est nécessaire au fonctionnement de l'oeuvre, et le deuxième inclus tout les élémnets de décor nécessaire à l'aspect esthétique de l'installation. ces tableaux seront suivie d'un prix total et d'un prix total auquel nous avont ajouté 15% de plus pour calculer les pertes.
 
 #### Tableau 1
 
@@ -151,3 +151,39 @@ Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour ré
 | 1/8 jack module | 6 | 1,95$ | 11,70$ |
 | haut-parleur intérieur | 4 | 14,99$ | 59,96$ |
 | carte sd | 1 | 39,98$ | 39,98$ |
+| resistor | 4 | - | - |
+| valves | 4 | - | - |
+| pinces de fixations | 15 | 21,90$ | 328,50$ |
+| display port hub | 3 | 56,99$ | 170,97$ |
+| switch ethernet | 1 | 38,99$ | 38,99$ |
+| carte de son | 1 | 153,01$ | 153,01$ |
+| ordinateur | 1 | - | - |
+| rig pour projecteur | 8 | 33,99$ | 271,92$ |
+| cable ethernet (100') | 4 | 21,99$ | 87,96$ |
+| cable ethernet (10') | 2 | - | - |
+| display port to hdmi | 9 | 9,99$ | 89,91$ |
+| hdmi (3') | 9 | 10,99$ | 98,91$ |
+| fixture adressable | 8 | - | - |
+| subwoofer | 1 | 199,99$ | 199,99$ |
+| quincaillerie | - | - | - |
+
+#### tableau 2
+
+| produits | quantité | prix unitaire | prix total |
+|----------|----------|---------------|------------|
+| fausses plantes | 1 | 15,29$ | 15,29$ |
+| plywood 1/2 4'x8' | 2 | 15,35$ | 30,70$ |
+| grilage | 1 | 23,99$ | 23,99$ |
+| écrans | - | - | - |
+| faux gazon | - | - | - |
+| ciment | 2 | 19,99$ | 39,98$ | 
+| affiche | - | - | - |
+| engrenage | - | - | - |
+| tissue | - | - | - |
+| tôle | 5 | 22,99$ | 114,95$ |
+| fausse tête | 9 | - | - |
+
+#### total
+
+| total | 2150,46$ |
+| total + 15% | 2795,60$ |
