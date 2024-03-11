@@ -30,6 +30,43 @@ L'œuvre soulève la question de l'équilibre délicat entre notre quête de pro
 
 ## Direction Artistique
 
+### Description
+
+1ère tour, Extrêmement Environnemental: illustre l’environnement autour de l'humain, pas seulement la nature, mais aussi la société
+
+2ème tour, Culturellement Approprié: symbolise la diversité culturelle à travers des formes simples de type graffiti 
+
+3ème tour, Proprement Neurologique:démontre l'Exploration de la conscience humaine et comment elle réagit par rapport à son environnement, Des liens interconnectés
+
+4ème tour, Techniquement Technologique:MONTRE La technologie dans le monde ET SON OMNIPRÉSENCE
+
+Style 2d et 3d mélangé
+
+Univers de base en fractal
+
+### Interactions
+
+- Lorsqu’une la personne touche au capaciteur, un son sort du HP de la tour. 
+- Lorsqu’une personne tourne la valve, le HP à l’intérieur de la tour fait un sortir un son
+
+Exemples :​
+
+https://youtu.be/0EZI1e_jhn0
+
+### Bandes d'arrière-plan
+
+#### Séquence d'ouverture
+
+Ouverture et présentation du monde et des tours avec une animaation sonore mystérieuse et envoutante.
+
+#### Bande sonore (Mode interactivité)
+
+Bande sonore d'arrière plan durant le mode interactif qui fusionne les thèmes des différentes tours (environnemental, Culture, neurologique, technologique)
+
+#### Climax
+
+Crescendo de l'expérience sonore d'une durée de 1 minute. Cette trame rythmée et intense marque le somome de l'expérience.
+
 ## Direction Technique
 
 ### Description
