@@ -172,9 +172,9 @@ Comme pour la dernière liste, nous avons intégrer des liens de référence pou
 - [grillage à lapin](https://www.amazon.ca/Hardware-Galvanized-Chicken-Protection-Supports/dp/B0C36KF3TS/ref=sr_1_3?keywords=grillage+pour+cloture&qid=1706837058&sr=8-3) (1)
 - [ciment](https://www.homedepot.ca/product/quikrete-portland-cement-40kg/1000149591) (2)
 - écran (1) // à trouver en temps et lieu, idéalement usagé
-- engrenage (plusieurs) // 3d print?
+- engrenage (plusieurs) // impression 3d
 - affiches (15) // à faire nous même
-- tissu () // à discuter
+- tissu (40 pieds carré)  
 - faux gazon ()
 
 ### Budget
@@ -199,12 +199,11 @@ Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour ré
 | ordinateur | 1 | - | - |
 | rig pour projecteur | 8 | 33,99$ | 271,92$ |
 | cable ethernet (100') | 4 | 21,99$ | 87,96$ |
-| cable ethernet (10') | 2 | - | - |
+| cable ethernet (5') | 2 | 12,73$ | 25,46$ |
 | display port to hdmi | 9 | 9,99$ | 89,91$ |
 | hdmi (3') | 9 | 10,99$ | 98,91$ |
-| fixture adressable | 8 | - | - |
 | subwoofer | 1 | 199,99$ | 199,99$ |
-| quincaillerie | - | - | - |
+| quincaillerie | estimation | 50,00$ | 50,00$ |
 
 #### tableau 2
 
