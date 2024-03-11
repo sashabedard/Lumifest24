@@ -69,7 +69,7 @@ Bien que chacun des quatre (4) piliers sera different, les technologies utilisé
 
 Les valves sont l'élément intéractif principale de notre installation. Les valves seront connectées a un potentiomètre et relié à un resistor et un port PWN du micro-controleur. Pour s'éviter le trouble de trouver quatre (4) valve vintage pareil et d'avoir des soucis pour les fixés, nous avons décidé de les faire imprimé en 3D. 
 
-![schema_valve](medias/schema/schema_valve.drawio.png)
+![schema_valve](medias/schema/schema_valve.jpg)
 ![schema_valve_construction](medias/schema/schema_valve_construction.drawio.png)
 
 ### Liste de Matériel
@@ -111,7 +111,7 @@ Dans cette liste, nous avons regroupé tout ce que nous devons acheter pour réa
 - [carte sd](https://www.amazon.ca/Gigastone-Memory-Camcorder-Recorder-Playback/dp/B07SBL5GZB/ref=asc_df_B07SBL5GZB/?tag=googleshopc0c-20&linkCode=df0&hvadid=540626975969&hvpos=&hvnetw=g&hvrand=6668981857743626176&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000398&hvtargid=pla-916421134773&mcid=5991f97f7ba734d090595c9e7cbb9338&th=1) (4)
 - resistor (4)
 - [potentiometre](https://www.amazon.ca/-/fr/BQLZR-3590S-2-103L-potentiom%C3%A8tres-rotatifs-pr%C3%A9cision/dp/B00RT8ZZWE/ref=sr_1_12?adgrpid=68757805817&hvadid=645778546304&hvdev=c&hvlocphy=9061031&hvnetw=g&hvqmt=e&hvrand=14365429445465706112&hvtargid=kwd-312004743830&hydadcr=7933_13615710&keywords=potentiom%C3%A8tre+multitour&qid=1707152372&sr=8-12) (4)
-- valve (4) // 3d print
+- valve (4) // impression 3d
 - [clamp](https://www.amazon.ca/SmallRig-Thread-Monitor-Umbrellas-Shelves/dp/B075M3Y21G/ref=asc_df_B075M3Y21G/?tag=googleshopc0c-20&linkCode=df0&hvadid=335336194689&hvpos=&hvnetw=g&hvrand=14228036213940279672&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000605&hvtargid=pla-794475055880&psc=1&mcid=51d30a1b61b838f6ae8a9a8f0b50d2c9) (15)
 - [display port hub](https://www.amazon.ca/DisplayPort-Splitter-BolAAzuL-Adapter-Display/dp/B09L5YPM5D/ref=sr_1_27?keywords=displayport+hub&qid=1706217664&sr=8-27) (3)
 - [cable display port](https://www.amazon.ca/DisplayPort-Benfei-Gold-Plated-Supports-Compatible/dp/B077BPW8XJ/ref=asc_df_B077BPW8XJ/?tag=googleshopc0c-20&linkCode=df0&hvadid=459346866217&hvpos=&hvnetw=g&hvrand=6240455701509316061&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061031&hvtargid=pla-525295260888&psc=1&mcid=cfccc67ba31e3e2cbd1221cf241472ed) (3)
@@ -183,7 +183,6 @@ Nous avons inclus dans le budget tout ce que nous allons devoir acheter pour ré
 | engrenage | - | - | - |
 | tissue | - | - | - |
 | tôle | 5 | 22,99$ | 114,95$ |
-| fausse tête | 9 | - | - |
 
 #### total
 
