@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Levels/BaseMap.umap",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Combine.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/FinalAlbedo.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/FinalTerrain.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Fx.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Fx001.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Fx002.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Fx003.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Normal_Map.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/RockMap.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainAssest/Voronoi.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Materials/TerrainBase.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_1001_Diffuse.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_1001_Glossiness.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_1001_Normal.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_1001_Specular.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_Body.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_nonPBR.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/locde/OneDrive - UQAM/lumifest/Lumifest24/Production/unreal/lumifest/Content/Assets/general/test_character/Ch36_nonPBR_Skeleton.uasset"
+			]
+		}
+	]
+}
