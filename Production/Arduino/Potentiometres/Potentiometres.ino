@@ -13,7 +13,7 @@ void loop() {
   }
   
   if(sensorValue && sensorValue >= 0 && sensorValue <= 204){
-    Serial.println("gi1");
+    Serial.println("1");
   }
 
   else if(sensorValue && sensorValue != 0 && sensorValue > 205 && sensorValue <= 409){
