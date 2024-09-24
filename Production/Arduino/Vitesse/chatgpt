@@ -1,0 +1,44 @@
+#include <SPI.h>
+#include <Ethernet.h>
+#include <OSCMessage.h>
+
+// Déclaration des variables réseau
+byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; // MAC Address, choisis une adresse unique si nécessaire
+IPAddress ip(192.168.1.177); // IP fixe de l'Arduino sur ton réseau local
+IPAddress outIp(192.168.1.178); // L'adresse IP de la machine exécutant TouchDesigner
+unsigned int outPort = 8000;  // Le port sur lequel TouchDesigner attend les messages OSC
+
+EthernetUDP Udp; // UDP instance pour la communication
+
+void setup() {
+  // Initialisation de la communication Ethernet
+  Ethernet.begin(mac, ip);
+  Udp.begin(8000); // Le port sur lequel Arduino reçoit les messages (facultatif si c'est juste pour envoyer)
+
+  Serial.begin(9600);  // Initialisation du port série
+  delay(1000);  // Petit délai pour s'assurer que tout est bien configuré
+
+  Serial.println("Ethernet ready. Starting OSC transmission...");
+}
+
+void loop() {
+  int sensorValue = analogRead(A0);  // Lecture de la valeur du capteur
+  int vitesse = map(sensorValue, 1, 1023, 1, 10);  // Mappage de la valeur pour la vitesse
+  
+  // Création d'un message OSC avec l'adresse /vitesse
+  OSCMessage msg("/vitesse");
+  msg.add(vitesse);  // Ajoute la valeur mappée
+
+  // Envoi du message OSC via Ethernet
+  Udp.beginPacket(outIp, outPort);  // Démarrage du paquet vers l'adresse IP et le port
+  msg.send(Udp);  // Envoie le message
+  Udp.endPacket();  // Fin du paquet
+
+  msg.empty();  // Vide le message pour éviter les collisions dans la mémoire
+
+  // Pour le débogage
+  Serial.print("Vitesse : ");
+  Serial.println(vitesse);
+
+  delay(200);  // Pause avant la prochaine lecture
+}
