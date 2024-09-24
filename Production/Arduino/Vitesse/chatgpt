@@ -2,39 +2,39 @@
 #include <Ethernet.h>
 #include <OSCMessage.h>
 
-// Déclaration des variables réseau
-byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; // MAC Address, choisis une adresse unique si nécessaire
-IPAddress ip(192.168.1.177); // IP fixe de l'Arduino sur ton réseau local
-IPAddress outIp(192.168.1.178); // L'adresse IP de la machine exécutant TouchDesigner
-unsigned int outPort = 8000;  // Le port sur lequel TouchDesigner attend les messages OSC
+// Déclaration des variables réseau avec l'adresse MAC fournie
+byte mac[] = { 0x90, 0xA2, 0xDA, 0x10, 0x4F, 0xF9 }; // Adresse MAC de ton shield Ethernet
+IPAddress ip(192.168.1.101); // Adresse IP de l'Arduino
+IPAddress outIp(192.168.1.100); // Adresse IP de l'ordinateur
+unsigned int outPort = 8000;  // Port OSC sur lequel TouchDesigner écoute
 
-EthernetUDP Udp; // UDP instance pour la communication
+EthernetUDP Udp; // UDP instance pour envoyer les messages
 
 void setup() {
   // Initialisation de la communication Ethernet
   Ethernet.begin(mac, ip);
-  Udp.begin(8000); // Le port sur lequel Arduino reçoit les messages (facultatif si c'est juste pour envoyer)
+  Udp.begin(8000); // Le port de réception d'OSC de l'Arduino (facultatif si c'est juste pour envoyer)
 
   Serial.begin(9600);  // Initialisation du port série
   delay(1000);  // Petit délai pour s'assurer que tout est bien configuré
 
-  Serial.println("Ethernet ready. Starting OSC transmission...");
+  Serial.println("Direct Ethernet connection ready. Starting OSC transmission...");
 }
 
 void loop() {
   int sensorValue = analogRead(A0);  // Lecture de la valeur du capteur
   int vitesse = map(sensorValue, 1, 1023, 1, 10);  // Mappage de la valeur pour la vitesse
-  
+
   // Création d'un message OSC avec l'adresse /vitesse
   OSCMessage msg("/vitesse");
-  msg.add(vitesse);  // Ajoute la valeur mappée
+  msg.add(vitesse);  // Ajout de la valeur de vitesse
 
   // Envoi du message OSC via Ethernet
-  Udp.beginPacket(outIp, outPort);  // Démarrage du paquet vers l'adresse IP et le port
-  msg.send(Udp);  // Envoie le message
+  Udp.beginPacket(outIp, outPort);  // Démarrage du paquet vers l'adresse IP de l'ordinateur
+  msg.send(Udp);  // Envoi du message
   Udp.endPacket();  // Fin du paquet
 
-  msg.empty();  // Vide le message pour éviter les collisions dans la mémoire
+  msg.empty();  // Nettoyage du message OSC
 
   // Pour le débogage
   Serial.print("Vitesse : ");
