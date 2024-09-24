@@ -2,8 +2,8 @@
 #include <Ethernet.h>
 #include <OSCMessage.h>
 
-// Déclaration des variables réseau avec l'adresse MAC fournie
-byte mac[] = { 0x90, 0xA2, 0xDA, 0x10, 0x4F, 0xF9 }; // Adresse MAC de ton shield Ethernet
+// Déclaration des variables réseau avec l'adresse MAC formatée correctement
+byte mac[] = { 0x90, 0xA2, 0xDA, 0x10, 0x4F, 0xF9 }; // Adresse MAC correcte (sans tirets)
 IPAddress ip(192.168.1.101); // Adresse IP de l'Arduino
 IPAddress outIp(192.168.1.100); // Adresse IP de l'ordinateur
 unsigned int outPort = 8000;  // Port OSC sur lequel TouchDesigner écoute
